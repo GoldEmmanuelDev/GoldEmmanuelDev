@@ -7,7 +7,8 @@ I love building solutions that unify **commerce, communication, and creativity**
 
 ## 🚀 About Me  
 - 🌍 Founder of [CluueX](https://cluuex.com) – A Unified Digital Economy  
-- 💡 Skilled in **PHP, MySQL, React, JavaScript, Tailwind, WordPress**  
+- 💡 Skilled in **PHP, Node.js MySQL, React, JavaScript, Tailwind, WordPress etc**  
+- 📧 Portfolio: **[Gold Emmanuel](https://me.cluuex.com/)**  
 - ⚡ Passionate about **startups, open source, and digital ecosystems**  
 - 🎮 Currently experimenting with **multiplayer gaming + crypto integration**  
 - ✨ Always shipping projects that solve real-world problems  
@@ -29,17 +30,11 @@ I love building solutions that unify **commerce, communication, and creativity**
 
 ---
 
-## 🔥 Current Projects  
-- CluueX – Unified ecosystem for trade, community, and creativity  
-- Cluetact – Smart contact hub (MVP launched 🎉)  
-- Gaming Zone – Multiplayer + staking with CluueCoins  
-
 ---
 
 ## 📫 Connect With Me    
 - 🐦 [Twitter](https://x.com/a12gem)  
 - 💼 [LinkedIn](https://linkedin.com/in/goldemmanueldeveloper)  
-- 📧 Reach me: **[Gold Emmanuel](https://cluuex.com/@gold-emmanuel)**  
 
 ---
 
